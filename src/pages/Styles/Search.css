@@ -1,0 +1,13 @@
+.custom-icon {
+    color: lightgray;
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.custom-heading {
+    color: black;
+    font-family: cursive;
+    font-weight: bolder;
+    margin: 0px;
+}

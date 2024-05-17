@@ -1,0 +1,33 @@
+.container-fluid {
+  background-color: "rgb(124, 124, 224)" important;
+}
+
+.navbar {
+  position: fixed important;
+  top: 0 important;
+  width: 100% important;
+  font-family: cursive;
+  padding: 0% important;
+  z-index: 1;
+}
+
+
+.nav-link {
+  color: white;
+  font-size: 15px;
+  margin-top: 5px;
+  transition: color 0.3s;
+}
+
+.nav-link:hover,
+.nav-link:active {
+  scale: 1.1;
+  font-weight: bolder;
+}
+
+.btn {
+  color: white;
+  font-size: 12px;
+  margin-top: 5px;
+}
+

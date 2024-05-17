@@ -1,0 +1,29 @@
+.custom-icon {
+    color: lightgray;
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+}
+
+.custom-heading {
+    color: black;
+    font-family: cursive;
+    font-weight: bolder;
+    margin: 20px;
+}
+
+.custom-btn {
+    background-color: rgb(124, 124, 224);
+    color: white;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    font-family: cursive;
+}
+
+.custom-btn:hover,
+.custom-btn:focus,
+.custom-btn:active {
+    background-color: rgb(84, 84, 181);
+}
